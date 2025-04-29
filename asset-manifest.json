@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/list_creation/static/css/main.d3f5d13f.css",
+    "main.js": "/list_creation/static/js/main.273e5aae.js",
+    "index.html": "/list_creation/index.html",
+    "main.d3f5d13f.css.map": "/list_creation/static/css/main.d3f5d13f.css.map",
+    "main.273e5aae.js.map": "/list_creation/static/js/main.273e5aae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3f5d13f.css",
+    "static/js/main.273e5aae.js"
+  ]
+}
